@@ -1,0 +1,101 @@
+NETBEGIN 1
+CLUBEGIN 1
+PERBEGIN 1
+CLSBEGIN 1
+HIEBEGIN 1
+VECBEGIN 1
+
+% Reading Network   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1 - Dados.net
+N 1 RDN "C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1 - Dados.net" (92)
+E 1 CIRCULAR
+E 1 DRAW 0 0 0 0 0
+E 1 KAMADACOMP
+E 1 DRAW 0 0 0 0 0
+% Partition into Two Modes
+C 1 TWOMODEC 1 (92)
+E 1 DRAW 1 0 0 0 0
+E 1 KAMADACOMP
+E 1 DRAW 1 0 0 0 0
+E 1 DRAW 1 0 0 0 0
+% Generating 1-mode network from 2-mode network
+N 2 AFFILMULT 1 TRUE FALSE 1 (57)
+% Generating 1-mode network from 2-mode network
+N 3 AFFILMULT 1 FALSE FALSE 1 (35)
+E 3 DRAW 0 0 0 0 0
+E 1 DRAW 0 0 0 0 0
+E 1 DRAW 1 0 0 0 0
+E 1 DRAW 1 0 0 0 0
+E 1 DRAW 1 0 0 0 0
+% All degree centrality of 1. C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1 - Dados.net [2-Mode] (92)
+V 1 DEGV 1 [2] (92)
+E 1 DRAW 1 1 0 0 0
+E 1 DRAW 1 1 0 0 0
+% Info on 2-Mode Network 1. C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1 - Dados.net [2-Mode] (92)
+N 1 INFONET 1 0 1 (92)
+% Removing multiple lines
+N 4 SIMPLS 1 (92)
+E 4 DRAW 1 0 0 0 0
+E 4 DRAW 1 1 0 0 0
+% All degree centrality of 4. Simplification (SUM) of N1 (92)
+V 2 DEGV 4 [2] (92)
+E 4 DRAW 1 2 0 0 0
+% Info on 2-Mode Network 4. Simplification (SUM) of N1 (92)
+N 4 INFONET 4 0 1 (92)
+E 4 DRAW 1 2 0 0 0
+% 2. All Degree of N4 (92)
+V 2 INFOVEC1 2 4  0 1 
+E 4 DRAW 1 2 0 0 0
+E 4 DRAW 1 2 0 0 0
+E 4 DRAW 1 2 0 0 0
+E 4 DRAW 1 2 0 0 0
+% Removing multiple lines
+N 5 SIMPLSINGLE 1 (92)
+% All degree centrality of 5. Simplification (Single Line) of N1 (92)
+V 3 DEGV 5 [2] (92)
+E 5 DRAW 1 3 0 0 0
+E 5 DRAW 1 3 0 0 0
+E 5 DRAW 1 3 0 0 0
+E 5 DRAW 1 3 0 0 0
+E 5 KAMADACOMP
+% Generating 1-mode network from 2-mode network
+N 6 AFFILMULT 5 TRUE FALSE 1 (57)
+% Generating 1-mode network from 2-mode network
+N 7 AFFILMULT 5 FALSE FALSE 1 (35)
+E 7 DRAW 0 0 0 0 0
+E 6 DRAW 0 0 0 0 0
+E 7 DRAW 0 0 0 0 0
+E 7 DRAW 0 0 0 0 0
+E 7 DRAW 0 0 0 0 0
+% All degree centrality of 7. Network from COLS [MUL] in affiliation network N5 (35)
+V 4 DEGV 7 [2] (35)
+E 7 DRAW 0 4 0 0 0
+E 5 DRAW 0 0 0 0 0
+E 5 DRAW 0 0 0 0 0
+E 7 DRAW 0 0 0 0 0
+E 7 DRAW 0 4 0 0 0
+E 7 DRAW 0 4 0 0 0
+E 7 DRAW 0 4 0 0 0
+% Removing lines with low values
+N 8 REMLINL 7 3.0000 (35)
+E 8 DRAW 0 4 0 0 0
+E 7 DRAW 0 4 0 0 0
+E 8 DRAW 0 4 0 0 0
+E 8 DRAW 0 4 0 0 0
+E 8 DRAW 0 4 0 0 0
+E 8 DRAW 0 4 0 0 0
+E 8 DRAW 0 4 0 0 0
+E 8 DRAW 0 4 0 0 0
+% Saving network to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving network to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving network to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving network to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving network to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving network to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving network to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving network to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving partition to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving vector to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving vector to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving vector to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving vector to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+N 9999 WRPAJ "C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj"

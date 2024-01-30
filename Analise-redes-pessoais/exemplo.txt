@@ -1,0 +1,34 @@
+*vertices  12  7
+1  “Festa 1”
+2  “Festa 2”
+3  “Festa 3”
+4  “Festa 4”
+5  “Festa 5”
+6  “Festa 6”
+7  “Festa 7”
+8  “Antônio”
+9  “Camila”
+10  “Maurício”
+11  “Valéria”
+12  “Vinícius”
+*edges
+1  8
+1  9
+1  11
+1 12
+2 8
+2 9
+2 10
+3 8
+3 9
+4 9
+4 11
+4 12
+5 8
+5 11
+5 12
+6 11
+6 12
+7 8
+7 9
+7 10

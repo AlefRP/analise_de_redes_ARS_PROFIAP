@@ -1,0 +1,39 @@
+NETBEGIN 1
+CLUBEGIN 1
+PERBEGIN 1
+CLSBEGIN 1
+HIEBEGIN 1
+VECBEGIN 1
+
+% Reading Pajek Project File  ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-pessoais\Alef.paj
+% Reading Network   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Redes\Alef.net
+% Reading Partition   ---    Complete-All neighbours of vertex 1 in N1
+% Reading Vector   ---    All Degree of N1
+% Reading Vector   ---    Distribution of Distances in N1
+% Reading Vector   ---    All Degree of N1
+% Reading Vector   ---    All Degree of N1
+% Reading Vector   ---    Normalized V3 according to its Max
+% Reading Vector   ---    All closeness centrality in N1
+% Reading Vector   ---    Betweenness centrality in N1
+N 9999 RDPAJ "C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-pessoais\Alef.paj"
+% Blockmodeling - Standard Version
+C 2 BLOCKMODEL1M 1 (45)
+E 1 DRAW 2 0 0 0 0
+E 1 DRAW 2 0 0 0 0
+E 1 DRAW 2 0 0 0 0
+E 1 DRAW 2 5 0 0 0
+E 1 DRAW 2 3 0 0 0
+E 1 DRAW 2 6 0 0 0
+E 1 DRAW 2 5 0 0 0
+E 1 DRAW 2 1 0 0 0
+% Saving network to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-pessoais\Alef.paj
+% Saving partition to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-pessoais\Alef.paj
+% Saving partition to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-pessoais\Alef.paj
+% Saving vector to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-pessoais\Alef.paj
+% Saving vector to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-pessoais\Alef.paj
+% Saving vector to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-pessoais\Alef.paj
+% Saving vector to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-pessoais\Alef.paj
+% Saving vector to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-pessoais\Alef.paj
+% Saving vector to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-pessoais\Alef.paj
+% Saving vector to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-pessoais\Alef.paj
+N 9999 WRPAJ "C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-pessoais\Alef.paj"

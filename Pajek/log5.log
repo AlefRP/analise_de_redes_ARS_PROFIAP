@@ -1,0 +1,31 @@
+NETBEGIN 1
+CLUBEGIN 1
+PERBEGIN 1
+CLSBEGIN 1
+HIEBEGIN 1
+VECBEGIN 1
+
+% Reading Pajek Project File  ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Reading Network   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1 - Dados.net [2-Mode]
+% Reading Network   ---    Network from ROWS [MUL] in affiliation network N1
+% Reading Network   ---    Network from COLS [MUL] in affiliation network N1
+% Reading Network   ---    Simplification (SUM) of N1 [2-Mode]
+% Reading Network   ---    Simplification (Single Line) of N1 [2-Mode]
+% Reading Network   ---    Network from ROWS [MUL] in affiliation network N5
+% Reading Network   ---    Network from COLS [MUL] in affiliation network N5
+% Reading Network   ---    Removed lines with values lower than 3.0000 in N7
+% Reading Network   ---    Islands [Line Weights] in N7 [2,18]
+% Reading Network   ---    Islands [Line Weights] in N7 [2,5]
+% Reading Network   ---    Islands [Line Weights] in N7 [2,7]
+% Reading Partition   ---    2-Mode partition of N1
+% Reading Partition   ---    Islands [Line Weights] in N7 [2,18]
+% Reading Partition   ---    Islands [Line Weights] in N7 [2,5]
+% Reading Partition   ---    Islands [Line Weights] in N7 [2,7]
+% Reading Vector   ---    All Degree of N1
+% Reading Vector   ---    All Degree of N4
+% Reading Vector   ---    All Degree of N5
+% Reading Vector   ---    All Degree of N7
+% Reading Vector   ---    Height of Islands [Line Weights] in N7 [2,18]
+% Reading Vector   ---    Height of Islands [Line Weights] in N7 [2,5]
+% Reading Vector   ---    Height of Islands [Line Weights] in N7 [2,7]
+N 9999 RDPAJ "C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj"

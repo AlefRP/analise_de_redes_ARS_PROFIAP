@@ -1,0 +1,97 @@
+NETBEGIN 1
+CLUBEGIN 1
+PERBEGIN 1
+CLSBEGIN 1
+HIEBEGIN 1
+VECBEGIN 1
+
+% Reading Pajek Project File  ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Reading Network   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1 - Dados.net [2-Mode]
+% Reading Network   ---    Network from ROWS [MUL] in affiliation network N1
+% Reading Network   ---    Network from COLS [MUL] in affiliation network N1
+% Reading Network   ---    Simplification (SUM) of N1
+% Reading Network   ---    Simplification (Single Line) of N1
+% Reading Network   ---    Network from ROWS [MUL] in affiliation network N5
+% Reading Network   ---    Network from COLS [MUL] in affiliation network N5
+% Reading Network   ---    Removed lines with values lower than 3.0000 in N7
+% Reading Partition   ---    2-Mode partition of N1
+% Reading Vector   ---    All Degree of N1
+% Reading Vector   ---    All Degree of N4
+% Reading Vector   ---    All Degree of N5
+% Reading Vector   ---    All Degree of N7
+N 9999 RDPAJ "C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj"
+E 8 DRAW 0 0 0 0 0
+E 8 DRAW 0 4 0 0 0
+E 7 DRAW 0 4 0 0 0
+E 7 DRAW 0 4 0 0 0
+% 7. Network from COLS [MUL] in affiliation network N5 (35)
+N 7 INFONET 7 0 1 (35)
+E 8 DRAW 0 4 0 0 0
+% Computing islands [Line Weights]
+C 2 ISLANDSLW2 7 [2,18,1] (35)
+E 9 DRAW 0 5 0 0 0
+% 2. Islands [Line Weights] in N7 [2,18] (35, Islands=3)
+C 2 INFOCLU1 2 9 0 1 1 (35)
+E 9 DRAW 0 5 0 0 0
+E 9 DRAW 2 5 0 0 0
+% Computing islands [Line Weights]
+C 3 ISLANDSLW2 7 [2,5,1] (35)
+E 10 DRAW 3 6 0 0 0
+E 10 KAMADACOMP
+E 10 KAMADACOMP
+E 10 KAMADACOMP
+E 10 KAMADACOMP
+E 10 KAMADACOMP
+% Computing islands [Line Weights]
+C 4 ISLANDSLW2 7 [2,7,1] (35)
+E 11 DRAW 4 7 0 0 0
+E 9 DRAW 4 7 0 0 0
+E 9 DRAW 2 5 0 0 0
+E 10 DRAW 3 6 0 0 0
+% Saving network to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving network to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving network to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving network to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving network to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving network to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving network to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving network to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving network to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving network to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving network to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving partition to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving partition to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving partition to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving partition to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving vector to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving vector to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving vector to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving vector to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving vector to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving vector to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving vector to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+N 9999 WRPAJ "C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj"
+E 10 DRAW 3 6 0 0 0
+% Saving network to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving network to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving network to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving network to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving network to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving network to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving network to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving network to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving network to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving network to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving network to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving partition to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving partition to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving partition to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving partition to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving vector to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving vector to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving vector to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving vector to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving vector to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving vector to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+% Saving vector to file   ---    C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj
+N 9999 WRPAJ "C:\Users\alefr\Desktop\MESTRADO Alef\Análise de Dados\Análise de Redes - ARS\Analise-redes-Bancas-negros-2020-1\Analise-redes-Bancas-negros-2020-1.paj"

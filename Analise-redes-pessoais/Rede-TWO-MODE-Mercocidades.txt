@@ -1,0 +1,1165 @@
+*vertices 361 67
+1 "UTCT/jun.2007"
+2 "UTCT/set.2007"
+3 "UTCT/abr.2008"
+4 "UTCT/jun.2008"
+5 "UTCT/ago.2012"
+6 "GTCD/mai.2010"
+7 "UTC/set.2007"
+8 "UTC/jun.2008"
+9 "UTC/dez.2008"
+10 "UTC/jun.2011"
+11 "UTCDEP/mai.2007"
+12 "UTCDEP/set.2007"
+13 "UTCDEP/abr.2008"
+14 "UTCDEP/ago.2009"
+15 "UTCDEP/mar.2010"
+16 "UTCDEP/nov.2011"
+17 "UTDEL/jun.2008"
+18 "UTDEL/out.2008"
+19 "UTDEL/dez.2010"
+20 "UTDEL/set.2011"
+21 "UTDS/mai.2007"
+22 "UTDS/set.2007"
+23 "UTDS/jun.2008"
+24 "UTDS/ago.2009"
+25 "UTDS/nov.2010"
+26 "UTDU/jul.2007"
+27 "UTDU/set.2007"
+28 "UTDU/nov.2008"
+29 "UTDU/ago.2009"
+30 "UTE/mai.2007"
+31 "UTE/ago.2010"
+32 "UTE/nov.2011"
+33 "UTGM/jun.2007"
+34 "UTGM/set.2007"
+35 "UTGM/jun.2008"
+36 "UTGM/ago.2009"
+37 "UTGM/10.nov.2009"
+38 "UTGM/17.nov.2009"
+39 "UTGM/dez.2009"
+40 "UTGM/mai.2010"
+41 "UTGM/dez.2010"
+42 "UTJ/mai.2008"
+43 "UTJ/jun.2010"
+44 "UTJ/abr.2011"
+45 "UTJ/nov.2011"
+46 "UTADS/abr.2007"
+47 "UTADS/jun.2007"
+48 "UTADS/ago.2007"
+49 "UTADS/jun.2008"
+50 "UTADS/abr.2011"
+51 "UTPE/ago.2008"
+52 "UTPE/nov.2011"
+53 "UTT/abr.2007"
+54 "UTT/out.2007"
+55 "UTT/jun.2008"
+56 "UTT/dez.2008"
+57 "UTT/nov.2011"
+58 "UTC/abr.2009"
+59 "UTC/set.2009"
+60 "UTC/jun.2010"
+61 "UTC/out.2010"
+62 "UTC/jun.2011/01"
+63 "UTCDEP/set.2011"
+64 "UTT/maio.2011"
+65 "UTCDEP/mar.2011Semregistro
+66 "UTCTC/JUN.2011semregistro"
+67 "UTCDEP/set.2011semregistro"
+68 "Ácora (PER)"
+69 "Almirante Brown (ARG)"
+70 "Alvorada (BRA)"
+71 "Amparo (BRA)"
+72 "Anápolis (BRA)"
+73 "Araraquara (BRA)"
+74 "Arica (CHI)"
+75 "Aricagua – Mérida (VEN)"
+76 "Artigas (UY)"
+77 "Asunción (PAR)"
+78 "Avellaneda (Buenos Aires) (ARG)"
+79 "Avellaneda (Santa Fe) (ARG)"
+80 "Azul (ARG)"
+81 "Bage (BRA)"
+82 "Bahía Blanca (ARG)"
+83 "Barquisimeto (VEN)"
+84 "Barra do Quaraí (BRA)"
+85 "Barra do Ribeiro (BRA)"
+86 "Barranco (PER)"
+87 "Barranqueras (ARG)"
+88 "Bela Vista (BRA)"
+89 "Belem (BRA)"
+90 "Bella Vista (PAR)"
+91 "Bella Vista Norte (PAR)"
+92 "Belo Horizonte (BRA)"
+93 "Bento Gonçalves (BRA)"
+94 "Berisso (ARG)"
+95 "Bovril (ARG)"
+96 "Bragado (ARG)"
+97 "Brasilia (BRA)"
+98 "Buenos Aires (ARG)"
+99 "Calama (CHI)"
+100 "Camaçari (BRA)"
+101 "Cambyretá (PAR)"
+102 "Campinas (BRA)"
+103 "Canelones (UY)"
+104 "Canoas (BRA)"
+105 "Capiatá (PAR)"
+106 "Capilla del Monte (ARG)"
+107 "Capitán Meza (PAR)"
+108 "Carabayllo (PER)"
+109 "Caracas - Alcaldía Mayor (VEN)"
+110 "Carirubana (VEN)"
+111 "Carlos Antonio López (PAR)"
+112 "Carlos Pellegrini (ARG)"
+113 "Carmen de la Legua Reynoso (PER)"
+114 "Caxias do Sul (BRA)"
+115 "Cerro Largo (UY)"
+116 "Chepes (ARG)"
+117 "Chillán Viejo (CHI)"
+118 "Cipolletti (ARG)"
+119 "Cochabamba (BOL)"
+120 "Colonia (UY)"
+121 "Comodoro Rivadavia (ARG)"
+122 "Concepción (CHI)"
+123 "Concepción (PAR)"
+124 "Concordia (ARG)"
+125 "Contagem (BRA)"
+126 "Córdoba (ARG)"
+127 "Coronel Florentín Oviedo (PAR)"
+128 "Coronel Sapucaia (BRA)"
+129 "Corrientes (ARG)"
+130 "Cuiabá (BRA)"
+131 "Cumaná (VEN)"
+132 "Curahuara de Carangas (BOL)"
+133 "Curitiba (BRA)"
+134 "Daireaux (ARG)"
+135 "Diadema (BRA)"
+136 "Dourados (BRA)"
+137 "Durazno (UY)"
+138 "Eduardo Castex (ARG)"
+139 "El Alto (BOL)"
+140 "El Bosque (CHI)"
+141 "Empedrado (ARG)"
+142 "Esperanza (ARG)"
+143 "Esteban Echeverría (ARG)"
+144 "Esteio (BRA)"
+145 "Fernando de la Mora (PAR)"
+146 "Firmat (ARG)"
+147 "Florencio Varela (ARG)"
+148 "Flores (UY)"
+149 "Florianópolis (BRA)"
+150 "Florida (UY)"
+151 "Fortaleza (BRA)"
+152 "Foz do Iguaçu (BRA)"
+153 "Gaspar Marcano (VEN)"
+154 "General San Martín (ARG)"
+155 "Goiânia (BRA)"
+156 "Gravataí (BRA)"
+157 "Guaíra (BRA)"
+158 "Gualeguaychú (ARG)"
+159 "Guarulhos (BRA)"
+160 "Guaymallén (ARG)"
+161 "Hernandarias (PAR)"
+162 "Horqueta (PAR)"
+163 "Hurlingham (ARG)"
+164 "Indaiatuba (BRA)"
+165 "Independencia (VEN)"
+166 "Jacareí (BRA)"
+167 "Jesús (PAR)"
+168 "Jesús María (PER)"
+169 "Joinville (BRA)"
+170 "Juiz de Fora (BRA)"
+171 "Junín (ARG)"
+172 "Junín de los Andes (ARG)"
+173 "La Florida (CHI)"
+174 "La Matanza (ARG)"
+175 "La Paloma (UY)"
+176 "La Paz (BOL)"
+177 "La Plata (ARG)"
+178 "La Rioja (ARG)"
+179 "La Victoria (PER)"
+180 "Lanús (ARG)"
+181 "Las Bandurrias (ARG)"
+182 "Las Parejas (ARG)"
+183 "Lavalleja (UY)"
+184 "Libertador (VEN)"
+185 "Lima (PER)"
+186 "Limeira (BRA)"
+187 "Limpio (PAR)"
+188 "Lomas de Zamora (ARG)"
+189 "Londrina (BRA)"
+190 "Los Andes (CHI)"
+191 "Lota (CHI)"
+192 "Luján (ARG)"
+193 "Lurín (PER)"
+194 "Macaé (BRA)"
+195 "Maldonado (UY)"
+196 "Malvinas Argentinas (ARG)"
+197 "Mar del Plata (ARG)"
+198 "María Susana (ARG)"
+199 "Maringá (BRA)"
+200 "Mauá (BRA)"
+201 "Medellín (COL)"
+202 "Mendoza (ARG)"
+203 "Mérida (VEN)"
+204 "Monte Caseros (ARG)"
+205 "Montecarlo (ARG)"
+206 "Montevideo (UY)"
+207 "Moreno (ARG)"
+208 "Morón (ARG)"
+209 "Mossoró (BRA)"
+210 "Nanawa (PAR)"
+211 "Navarro (ARG)"
+212 "Necochea (ARG)"
+213 "Neuquén (ARG)"
+214 "Niteroi (BRA)"
+215 "Nova Iguaçu (BRA)"
+216 "Nova Prata (BRA)"
+217 "Olavarría (ARG)"
+218 "Osasco (BRA)"
+219 "Paraná (ARG)"
+220 "Paranhos (BRA)"
+221 "Parcona (PER)"
+222 "Paso de los Libres (ARG)"
+223 "Paucartambo (PER)"
+224 "Paysandú (UY)"
+225 "Pedro Juan Caballero (PAR)"
+226 "Penápolis (BRA)"
+227 "Pergamino (ARG)"
+228 "Piamonte (ARG)"
+229 "Pilar (ARG)"
+230 "Pilar (PAR)"
+231 "Pinamar (ARG)"
+232 "Piracicaba (BRA)"
+233 "Pirapó (PAR)"
+234 "Porto Alegre (BRA)"
+235 "Posadas (ARG)"
+236 "Praia Grande (BRA)"
+237 "Presidente Prudente (BRA)"
+238 "Pudahuel (CHI)"
+239 "Puerto Montt (CHI)"
+240 "Puerto San Julián (ARG)"
+241 "Quilmes (ARG)"
+242 "Quilpué (CHI)"
+243 "Rafaela (ARG)"
+244 "Rancagua (CHI)"
+245 "Realicó (ARG)"
+246 "Recife (BRA)"
+247 "Reconquista (ARG)"
+248 "Resistencia (ARG)"
+249 "Ribeirão Preto (BRA)"
+250 "Rio Claro (BRA)"
+251 "Río Cuarto (ARG)"
+252 "Rio de Janeiro (BRA)"
+253 "Río Grande (ARG)"
+254 "Rio Grande (BRA)"
+255 "Río Negro (UY)"
+256 "Río Tercero (ARG)"
+257 "Rivera (UY)"
+258 "Rocha (UY)"
+259 "Roque Sáenz Peña (ARG)"
+260 "Rosario (ARG)"
+261 "Sabará (BRA)"
+262 "Salta (ARG)"
+263 "Salto (ARG)"
+264 "Salto (UY)"
+265 "Salto del Guairá (PAR)"
+266 "Salvador (BRA)"
+267 "San Antonio de Areco (ARG)"
+268 "San Antonio de los Cobres (ARG)"
+269 "San Fernando del Valle de Catamarca (ARG)"
+270 "San Ignacio Guazú (PAR)"
+271 "San Isidro (ARG)"
+272 "San Jorge (ARG)"
+273 "San José (UY)"
+274 "San Juan (ARG)"
+275 "San Lázaro (PAR)"
+276 "San Lorenzo (ARG)"
+277 "San Luis (ARG)"
+278 "San Miguel de Tucumán (ARG)"
+279 "San Pedro de Ykuamandyjú (PAR)"
+280 "San Salvador de Jujuy (ARG)"
+281 "Santa Cruz de la Sierra (BOL)"
+282 "Santa Fe (ARG)"
+283 "Santa María (BRA)"
+284 "Santa Rosa (BRA)"
+285 "Santa Vitória do Palmar (BRA)"
+286 "Santana de Parnaíba (BRA)"
+287 "Santiago – Cusco (PER)"
+288 "Santiago de Andamarca - Oruro (BOL)"
+289 "Santiago de Chile (CHI)"
+290 "Santiago del Estero (ARG)"
+291 "Santo André (BRA)"
+292 "Santo Tomé (ARG)"
+293 "Santos (BRA)"
+294 "São Bento do Sul (BRA)"
+295 "São Bernardo do Campo (BRA)"
+296 "São Caetano do Sul (BRA)"
+297 "São Carlos (BRA)"
+298 "São Gonçalo (BRA)"
+299 "São José do Rio Preto (BRA)"
+300 "São Leopoldo (BRA)"
+301 "São Paulo (BRA)"
+302 "São Vicente (BRA)"
+303 "Sifontes (VEN)"
+304 "Sucre (BOL)"
+305 "Sumaré (BRA)"
+306 "Sunchales (ARG)"
+307 "Surquillo (PER)"
+308 "Suzano (BRA)"
+309 "Taboão da Serra (BRA)"
+310 "Tacuarembó (UY)"
+311 "Tandil (ARG)"
+312 "Tarija (BOL)"
+313 "Tigre (ARG)"
+314 "Tiwanaku (BOL)"
+315 "Totoras (ARG)"
+316 "Treinta y Tres (UY)"
+317 "Trelew (ARG)"
+318 "Uberlândia (BRA)"
+319 "Uros Chulluni (PER)"
+320 "Ushuaia (ARG)"
+321 "Valencia (VEN)"
+322 "Valparaíso (CHI)"
+323 "Vargas (VEN)"
+324 "Varzéa Paulista (BRA)"
+325 "Vespasiano (BRA)"
+326 "Viamão (BRA)"
+327 "Vicente López (ARG)"
+328 "Viedma (ARG)"
+329 "Villa Carlos Paz (ARG)"
+330 "Villa Gesell (ARG)"
+331 "Villa María (ARG)"
+332 "Villa Mercedes (ARG)"
+333 "Villeta (PAR)"
+334 "Viña del Mar (CHI)"
+335 "Virasoro (ARG)"
+336 "Vitória (BRA)"
+337 "Vitória da Conquista (BRA)"
+338 "Ypehú (PAR)"
+339 "Zapala (ARG)"
+340 "Zárate (ARG)"
+341 "Aragua (VEN) Não membro"
+342 "Apure (VEN) Não Membro"
+343 "Batan (ARG) Não Membro"
+344 "Canela (BRA) Não Membro"
+345 "Carabobo (VEN) Não Membro"
+346 "Congonhas (BRA) Não Membro"
+347 "Fundão (BRA) Não Membro"
+348 "General Pueyrredón (ARG) Não Membro"
+349 "Governador Valadares (BRA) Não membro"
+350 "Guarico (VEN) Não membro"
+351 "Iribarren (VEN) Não membro"
+352 "Mariana (BRA) Não Membro"
+353 "Mesquita (BRA) Não Membro"
+354 "Ouro Preto (BRA) Não Membro"
+355 "Varginha (BRA) Não membro"
+356 "Viana (BRA) Não Membro"
+357 "Villa El Salvador (PER) Não Membro"
+358 "Villa Gral. Belgrano (ARG) Não Membro"
+359 "Vila Velha (BRA) Não Membro"
+360 "Campo Grande (BRA) Não Membro"
+361 "Cuenca (EQUA) Não Membro"
+*edges
+1 92
+1 103
+1 133
+1 166
+1 206
+1 208
+1 234
+1 241
+1 252
+1 260
+1 291
+1 297
+1 311
+1 336
+2 92
+2 97
+2 102
+2 120
+2 125
+2 133
+2 156
+2 206
+2 234
+2 293
+2 297
+2 336
+3 73
+3 133
+3 234
+3 297
+3 324
+3 336
+4 92
+4 98
+4 103
+4 133
+4 147
+4 192
+4 206
+4 234
+4 297
+4 336
+5 92
+5 159
+5 195
+5 260
+5 282
+5 297
+5 300
+5 311
+6 77
+6 81
+6 82
+6 92
+6 111
+6 120
+6 133
+6 145
+6 159
+6 171
+6 187
+6 208
+6 219
+6 227
+6 233
+6 241
+6 260
+7 92
+7 98
+7 103
+7 126
+7 170
+7 177
+7 196
+7 206
+7 208
+7 219
+7 224
+7 246
+7 260
+7 264
+7 311
+7 336
+8 78
+8 92
+8 98
+8 103
+8 109
+8 150
+8 195
+8 206
+8 224
+8 264
+8 311
+9 98
+9 103
+9 149
+9 151
+9 154
+9 170
+9 177
+9 195
+9 196
+9 206
+9 208
+9 224
+9 246
+9 269
+9 291
+9 293
+9 311
+9 336
+9 346
+9 349
+9 352
+9 354
+9 355
+10 149
+10 195
+10 260
+11 74
+11 77
+11 82
+11 95
+11 103
+11 109
+11 126
+11 145
+11 176
+11 206
+11 208
+11 219
+11 227
+11 243
+11 251
+11 260
+11 311
+12 77
+12 96
+12 103
+12 109
+12 150
+12 206
+12 208
+12 227
+12 243
+12 253
+12 260
+12 310
+12 311
+13 92
+13 103
+13 109
+13 171
+13 176
+13 206
+13 208
+13 227
+13 282
+13 323
+13 341
+13 342
+13 350
+13 351
+14 206
+14 208
+14 227
+14 260
+15 76
+15 98
+15 103
+15 114
+15 135
+15 150
+15 206
+15 212
+15 227
+15 255
+15 258
+15 260
+16 103
+16 195
+16 206
+16 208
+16 221
+17 73
+17 103
+17 106
+17 147
+17 154
+17 159
+17 206
+17 208
+17 246
+17 283
+17 299
+17 309
+18 83
+18 126
+18 150
+18 171
+18 180
+18 206
+18 208
+18 260
+19 81
+19 82
+19 102
+19 125
+19 135
+19 159
+19 206
+19 208
+20 72
+20 73
+20 92
+20 135
+20 159
+20 206
+20 208
+20 260
+20 295
+20 297
+20 300
+20 324
+21 135
+21 166
+21 171
+21 174
+21 206
+21 208
+21 217
+21 234
+21 241
+21 269
+21 291
+22 73
+22 102
+22 135
+22 166
+22 174
+22 208
+22 252
+22 254
+22 260
+22 291
+22 308
+22 324
+22 336
+22 360
+23 103
+23 144
+23 166
+23 192
+23 195
+23 206
+23 208
+23 224
+23 241
+23 271
+24 109
+24 195
+24 197
+24 206
+24 208
+24 213
+24 231
+24 260
+24 322
+25 103
+25 125
+25 194
+25 206
+25 322
+26 98
+26 291
+26 336
+26 347
+26 356
+26 359
+27 98
+27 291
+27 336
+28 92
+28 98
+28 133
+28 176
+28 206
+28 336
+29 98
+29 135
+29 196
+29 218
+29 234
+29 260
+29 336
+29 340
+30 92
+30 98
+30 156
+30 174
+30 202
+30 291
+31 103
+31 194
+31 197
+31 243
+31 260
+31 273
+31 340
+32 103
+32 195
+32 206
+32 260
+33 92
+33 98
+33 100
+33 102
+33 103
+33 119
+33 125
+33 195
+33 206
+33 208
+33 224
+33 234
+33 246
+33 252
+33 291
+33 297
+33 357
+33 361
+34 73
+34 77
+34 92
+34 100
+34 102
+34 103
+34 114
+34 125
+34 195
+34 197
+34 206
+34 208
+34 224
+34 246
+34 252
+34 291
+34 297
+34 301
+35 92
+35 103
+35 106
+35 195
+35 206
+35 208
+35 260
+35 262
+35 291
+35 343
+36 77
+36 92
+36 98
+36 103
+36 106
+36 125
+36 159
+36 194
+36 195
+36 206
+36 235
+36 241
+36 248
+36 260
+36 262
+36 348
+37 77
+37 98
+37 106
+37 180
+37 192
+37 208
+37 241
+37 248
+37 260
+37 262
+37 348
+38 103
+38 195
+38 206
+38 208
+39 92
+39 102
+39 125
+39 151
+39 159
+39 194
+39 208
+39 234
+40 77
+40 92
+40 98
+40 102
+40 103
+40 106
+40 125
+40 151
+40 159
+40 192
+40 195
+40 206
+40 208
+40 241
+40 246
+40 248
+40 260
+40 262
+40 291
+40 297
+40 309
+40 348
+41 77
+41 92
+41 98
+41 103
+41 106
+41 125
+41 151
+41 192
+41 194
+41 197
+41 206
+41 234
+41 246
+41 248
+41 260
+41 291
+41 297
+41 309
+42 78
+42 98
+42 126
+42 171
+42 174
+42 195
+42 212
+42 227
+42 241
+42 253
+42 260
+42 263
+42 269
+42 278
+42 311
+42 331
+42 358
+43 78
+43 98
+43 103
+43 122
+43 171
+43 174
+43 192
+43 195
+43 208
+43 212
+43 227
+43 241
+43 260
+43 311
+43 340
+44 98
+44 103
+44 113
+44 168
+44 171
+44 176
+44 195
+44 196
+44 205
+44 206
+44 208
+44 218
+44 227
+44 241
+44 243
+44 260
+44 263
+44 269
+44 300
+44 307
+44 340
+44 348
+45 92
+45 98
+45 103
+45 168
+45 206
+45 208
+45 227
+45 295
+46 77
+46 96
+46 98
+46 103
+46 120
+46 126
+46 150
+46 154
+46 171
+46 174
+46 202
+46 206
+46 208
+46 227
+46 241
+46 245
+46 251
+46 260
+46 269
+46 297
+46 301
+46 331
+47 77
+47 96
+47 98
+47 103
+47 120
+47 150
+47 154
+47 171
+47 174
+47 195
+47 202
+47 206
+47 208
+47 224
+47 241
+47 245
+47 251
+47 291
+47 301
+47 331
+48 92
+48 98
+48 103
+48 120
+48 150
+48 154
+48 202
+48 206
+48 208
+48 227
+48 251
+48 260
+48 291
+48 301
+48 331
+48 353
+49 103
+49 147
+49 150
+49 195
+49 206
+49 224
+49 260
+49 345
+50 77
+50 81
+50 98
+50 103
+50 195
+50 206
+50 251
+50 260
+50 310
+50 343
+51 78
+51 103
+51 260
+52 103
+52 104
+52 125
+52 206
+52 208
+53 82
+53 83
+53 92
+53 98
+53 103
+53 171
+53 202
+53 206
+53 208
+53 241
+53 251
+53 264
+53 269
+53 271
+53 297
+53 301
+53 322
+53 331
+54 73
+54 92
+54 98
+54 206
+54 250
+54 251
+54 264
+54 291
+54 297
+54 299
+54 301
+54 336
+55 83
+55 103
+55 192
+55 206
+55 224
+55 254
+55 264
+55 336
+56 89
+56 93
+56 97
+56 103
+56 120
+56 183
+56 195
+56 197
+56 206
+56 224
+56 234
+56 241
+56 257
+56 258
+56 264
+56 291
+56 301
+56 309
+56 311
+56 336
+56 344
+57 89
+57 93
+57 97
+57 120
+57 183
+57 195
+57 206
+57 234
+57 257
+57 258
+57 301
+57 344
+58 77
+58 78
+58 82
+58 92
+58 98
+58 103
+58 109
+58 114
+58 148
+58 149
+58 151
+58 154
+58 169
+58 171
+58 177
+58 185
+58 190
+58 192
+58 195
+58 196
+58 197
+58 200
+58 206
+58 208
+58 213
+58 222
+58 224
+58 234
+58 252
+58 260
+58 264
+58 269
+58 273
+58 278
+58 280
+58 282
+58 291
+58 292
+58 294
+58 311
+58 322
+58 336
+59 92
+59 98
+59 103
+59 114
+59 154
+59 177
+59 187
+59 192
+59 195
+59 196
+59 197
+59 200
+59 206
+59 208
+59 224
+59 252
+59 258
+59 264
+59 273
+59 282
+60 78
+60 82
+60 92
+60 98
+60 103
+60 150
+60 154
+60 177
+60 192
+60 195
+60 206
+60 208
+60 212
+60 217
+60 219
+60 222
+60 224
+60 227
+60 241
+60 243
+60 244
+60 252
+60 260
+60 264
+60 269
+60 273
+60 296
+60 310
+60 322
+61 83
+61 98
+61 103
+61 114
+61 154
+61 177
+61 187
+61 190
+61 195
+61 196
+61 222
+61 241
+61 244
+61 260
+61 269
+61 273
+61 296
+61 310
+61 322
+61 334
+62 82
+62 83
+62 92
+62 98
+62 103
+62 106
+62 114
+62 146
+62 148
+62 185
+62 190
+62 194
+62 195
+62 208
+62 212
+62 218
+62 224
+62 241
+62 242
+62 260
+62 269
+62 273
+62 290
+62 295
+62 310
+62 355
+63 208
+63 260
+63 278
+64 92
+64 195
+64 206
+64 234
+64 258
+64 330
